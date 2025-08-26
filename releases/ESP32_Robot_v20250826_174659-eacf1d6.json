@@ -1,0 +1,10 @@
+{
+  "version": "20250826_174659-eacf1d6",
+  "git_hash": "eacf1d6",
+  "timestamp": "20250826_174659",
+  "build_date": "2025-08-26T17:46:59.586860",
+  "firmware_file": "ESP32_Robot_v20250826_174659-eacf1d6.bin",
+  "file_size": 1037056,
+  "sha256": "2741b0da0f7df72f3959af513acae7253f31780870db2d3322503caf166269c0",
+  "download_url": "https://raw.githubusercontent.com/TheDaveCollective/BYKTW-Robot/main/releases/ESP32_Robot_v20250826_174659-eacf1d6.bin"
+}
