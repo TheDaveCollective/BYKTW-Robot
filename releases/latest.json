@@ -1,8 +1,8 @@
 {
-  "latest_version": "20250826_174659-eacf1d6",
-  "latest_firmware": "ESP32_Robot_v20250826_174659-eacf1d6.bin",
-  "latest_info": "ESP32_Robot_v20250826_174659-eacf1d6.json",
-  "updated": "2025-08-26T17:46:59.594631",
-  "download_url": "https://raw.githubusercontent.com/TheDaveCollective/BYKTW-Robot/main/releases/ESP32_Robot_v20250826_174659-eacf1d6.bin",
-  "info_url": "https://raw.githubusercontent.com/TheDaveCollective/BYKTW-Robot/main/releases/ESP32_Robot_v20250826_174659-eacf1d6.json"
+  "latest_version": "20250827_132534-f58e0e9",
+  "latest_firmware": "ESP32_Robot_v20250827_132534-f58e0e9.bin",
+  "latest_info": "ESP32_Robot_v20250827_132534-f58e0e9.json",
+  "updated": "2025-08-27T13:29:02.865188",
+  "download_url": "https://raw.githubusercontent.com/TheDaveCollective/BYKTW-Robot/main/releases/ESP32_Robot_v20250827_132534-f58e0e9.bin",
+  "info_url": "https://raw.githubusercontent.com/TheDaveCollective/BYKTW-Robot/main/releases/ESP32_Robot_v20250827_132534-f58e0e9.json"
 }
